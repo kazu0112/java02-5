@@ -2,7 +2,7 @@ package jp.co.diworks.action;
 
 public interface Mp3Player {
 	
-	public abstract void paly();
+	public abstract void play();
 	
 	public abstract void stop();
 	
