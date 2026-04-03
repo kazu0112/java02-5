@@ -14,6 +14,14 @@ public class Iphone {
 		
 		iphone.back();
 		
+		iphone.call();
+		
+		iphone.mail();
+		
+		iphone.photo();
+		
+		iphone.internet();
+		
 	}
 
 }
